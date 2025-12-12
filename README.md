@@ -1,57 +1,102 @@
 Aman Shinde
 Python Backend Developer | Django • DRF • PostgreSQL | API Engineering
 
-Hi, I’m Aman, a Python Backend Developer focused on building secure, scalable, and production-ready backend systems using Django, Django REST Framework, and PostgreSQL.
+Hi, I’m Aman — a Python Backend Developer focused on building secure, scalable, and production-ready backend systems using Django REST Framework and PostgreSQL.
 
-I enjoy designing clean architectures, optimizing database performance, and building APIs that power real-world applications. Currently open to Backend Developer roles in Pune, Bangalore, or Remote.
+I enjoy designing clean architectures, optimizing database performance, and building well-structured REST APIs for real-world applications.
+Currently open to Backend Developer roles in Pune, Bangalore, or Remote.
 
 🔧 Tech Stack
+Languages
 
-Languages: Python, SQL, JavaScript (basic)
-Backend: Django, Django REST Framework, REST API Design, JWT Auth
-Databases: PostgreSQL, MySQL, SQLite
-Tools: Git, GitHub, Postman, Render, PythonAnywhere
-Core Strengths: ORM optimization, schema design, pagination, filtering
+Python
+
+SQL
+
+JavaScript (basic)
+
+Backend
+
+Django
+
+Django REST Framework
+
+REST API Design
+
+JWT / Token Authentication
+
+Databases
+
+PostgreSQL
+
+MySQL
+
+SQLite
+
+Tools
+
+Git & GitHub
+
+Postman
+
+Render
+
+PythonAnywhere
+
+Core Strengths
+
+ORM Optimization
+
+Schema Design
+
+Filtering & Pagination
+
+Clean Architecture
 
 🚀 Featured Projects
-Prodexa – AI Productivity Dashboard
+📌 Prodexa – AI Productivity Dashboard
 
 Django • DRF • PostgreSQL • React • JWT Auth
-A full-stack AI productivity platform with authentication, task management, analytics, and AI-powered insights using OpenAI API.
+
+A full-stack AI productivity platform with authentication, task management, analytics, and AI-powered insights.
+
 Live: https://prodexa-ai-productivity.onrender.com
 
 Repo: https://github.com/amanshinde1/ai-productivity-dashboard
 
-Library Management System (Django + PostgreSQL)
+📌 Library Management System (Django + PostgreSQL)
 
-A production-style LMS with advanced search & filtering, CSV export, analytics, and email automation.
-Optimized with select_related, prefetch_related, and DB indexing for 30% faster queries.
+A production-grade LMS with advanced search, CSV export, admin analytics, and automated email alerts.
+
+Optimized with select_related, prefetch_related, and indexing (~30% faster queries).
+
 Live: https://amanshinde.pythonanywhere.com
 
 Repo: https://github.com/amanshinde1/library-management-system
 
-Portfolio Website
+📌 Portfolio Website
 
-Fast, animated portfolio built with React, TypeScript, Tailwind, and Framer Motion.
+Fast, animated portfolio built using React, TypeScript, Tailwind, and Framer Motion.
+
 Live: https://aman-shinde-portfolio.vercel.app
 
 Repo: https://github.com/amanshinde1/aman-shinde-portfolio
 
 📈 Problem Solving
 
-Solved 148+ DSA problems across LeetCode + GFG
+Solved 148+ DSA problems (LeetCode + GFG)
 
-Strong command of Python problem-solving and algorithmic patterns
+Strong Python-based problem-solving
 
-Actively practicing Two Pointers, Sliding Window, Binary Search & Hashmap-based questions
+Practicing patterns: Two Pointers, Sliding Window, Binary Search, Hashmaps
 
 🎓 Certifications
 
 AWS Educate Cloud 101
 
-freeCodeCamp: Scientific Computing with Python
+Scientific Computing with Python (freeCodeCamp)
 
-freeCodeCamp: Front End Libraries
+Front End Libraries (freeCodeCamp)
 
 Google AI Essentials
 
