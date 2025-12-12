@@ -30,8 +30,8 @@ Currently open to **Backend Developer roles** in Pune, Bangalore, or Remote.
 - SQLite  
 
 #### **Tools**
-- Git & GitHub  
-- Postman  
+- Git & GitHub
+- cURL (API testing)
 - Render  
 - PythonAnywhere  
 
