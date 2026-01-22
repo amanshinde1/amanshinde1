@@ -5,9 +5,9 @@
 
 ### 👨‍💻 About Me  
 I’m a Backend Developer focused on building **secure**, **scalable**, and **production-ready** backend systems using Python, Django, Django REST Framework, and PostgreSQL.  
-I enjoy designing clean backend architectures, optimizing database performance, and developing well-structured REST APIs.
+I enjoy designing clean backend architectures, modeling real-world domains, optimizing database performance, and building well-structured REST APIs with proper authentication and data ownership.
 
-I’ve built and deployed production-style Django applications involving authentication, analytics, and performance-optimized database queries.
+I’ve built backend systems involving JWT authentication, analytics, ORM optimization, and production-style database design.
 
 Currently open to **Backend Developer roles** in Pune, Bangalore, Hyderabad, or Remote (India).
 
@@ -34,7 +34,7 @@ Currently open to **Backend Developer roles** in Pune, Bangalore, Hyderabad, or 
 #### **Tools & Platforms**
 - Git, GitHub  
 - cURL (API testing & debugging)  
-- Render, PythonAnywhere (production deployment)  
+- Render, PythonAnywhere (deployment)  
 
 #### **Core Strengths**
 - ORM Optimization  
@@ -45,6 +45,19 @@ Currently open to **Backend Developer roles** in Pune, Bangalore, Hyderabad, or 
 ---
 
 ## 🚀 Featured Projects
+
+### 📌 **DevRecall – Backend Recall Intelligence System**
+**Django • Django REST Framework • JWT • SQLite / PostgreSQL-ready**
+
+A backend-first system designed to help developers retain DSA patterns through structured recall tracking.
+
+Key backend features:
+
+**JWT-based authentication** , **User-scoped data isolation**, **Recall logging with confidence-based scoring**, **Review queue & daily revision planning**
+
+**Analytics for weak patterns and problems**
+
+**Repo:** https://github.com/amanshinde1/devrecall
 
 ### 📌 **Prodexa – AI Productivity Dashboard**
 **Django • Django REST Framework • PostgreSQL • React • JWT Auth**
@@ -75,7 +88,7 @@ Fast, responsive portfolio built using React, TypeScript, Tailwind CSS, and Fram
 ---
 
 ## 📈 Problem Solving
-- Solved **164+ DSA problems** (LeetCode + GFG)  
+- Solved **160+ DSA problems** (LeetCode + GFG)  
 - Strong **Python-based problem-solving**  
 - Familiar with interview patterns: **Two Pointers, Sliding Window, Binary Search, Hashmaps, Stacks**
 
